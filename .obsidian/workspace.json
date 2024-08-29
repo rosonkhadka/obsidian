@@ -23,14 +23,11 @@
             "id": "24c7da67edcd9041",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Keycloak/Laravel Integration/Filament/Docs.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -101,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Keycloak/Laravel Integration/Filament/Docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Keycloak/Laravel Integration/Filament/Docs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Keycloak/Laravel Integration/Filament/Docs.md"
               }
             }
           },
@@ -174,9 +171,10 @@
   },
   "active": "2449ad4cce970110",
   "lastOpenFiles": [
+    "Chnages",
     "Keycloak/Laravel Integration/Filament/filament-keycloak-diagram.excalidraw.md",
-    "Untitled.canvas",
     "Keycloak/Laravel Integration/Filament/Docs.md",
+    "Untitled.canvas",
     "Keycloak/keycloak - diagram.md",
     "Keycloak/Documentations.md",
     "Keycloak/Laravel Integration/API",
