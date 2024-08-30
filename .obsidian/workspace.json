@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "12cadd6c16188508",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Attendance - AI/Diagram.md"
-              }
-            }
-          },
-          {
             "id": "d5ef8b1eb1867c45",
             "type": "leaf",
             "state": {
@@ -30,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,9 +152,9 @@
   },
   "active": "d5ef8b1eb1867c45",
   "lastOpenFiles": [
-    "Kavya/MISC/Mark History.md",
     "Attendance - AI/Diagram.md",
     "Journal/August 30,  Friday.md",
+    "Kavya/MISC/Mark History.md",
     "Journal",
     "Event Driven Design",
     "Refactor/MST V2/Refactor.md",
