@@ -11,15 +11,27 @@
             "id": "12cadd6c16188508",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Attendance - AI/Diagram.md"
+              }
+            }
+          },
+          {
+            "id": "d5ef8b1eb1867c45",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Kavya/MISC/August 30, Friday.md",
+                "file": "Journal/August 30,  Friday.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kavya/MISC/August 30, Friday.md",
+                "file": "Journal/August 30,  Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kavya/MISC/August 30, Friday.md",
+                "file": "Journal/August 30,  Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kavya/MISC/August 30, Friday.md"
+                "file": "Journal/August 30,  Friday.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,10 +161,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12cadd6c16188508",
+  "active": "d5ef8b1eb1867c45",
   "lastOpenFiles": [
+    "Kavya/MISC/Mark History.md",
+    "Attendance - AI/Diagram.md",
+    "Journal/August 30,  Friday.md",
+    "Journal",
+    "Event Driven Design",
     "Refactor/MST V2/Refactor.md",
-    "Kavya/MISC/August 30, Friday.md",
     "Kavya/MISC",
     "Refactor/MST V2",
     "Refactor",
@@ -169,10 +186,7 @@
     "Kavya",
     "Excalidraw/chatbot.md",
     "Excalidraw/Data Engineering Diagram.md",
-    "Excalidraw",
     "Data Engineering/Data Analysis and Visualization Project.md",
-    "Data Engineering",
-    "Attendance - AI/Diagram.md",
     "Welcome.md"
   ]
 }
