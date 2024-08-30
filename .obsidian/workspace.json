@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Refactor/MST V2/Refactor.md",
+                "file": "Kavya/MISC/August 30, Friday.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Refactor/MST V2/Refactor.md",
+                "file": "Kavya/MISC/August 30, Friday.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Refactor/MST V2/Refactor.md",
+                "file": "Kavya/MISC/August 30, Friday.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Refactor/MST V2/Refactor.md"
+                "file": "Kavya/MISC/August 30, Friday.md"
               }
             }
           }
@@ -151,6 +151,8 @@
   "active": "12cadd6c16188508",
   "lastOpenFiles": [
     "Refactor/MST V2/Refactor.md",
+    "Kavya/MISC/August 30, Friday.md",
+    "Kavya/MISC",
     "Refactor/MST V2",
     "Refactor",
     "Keycloak/Laravel Integration/Filament/filament-keycloak-diagram.excalidraw.md",
@@ -171,7 +173,6 @@
     "Data Engineering/Data Analysis and Visualization Project.md",
     "Data Engineering",
     "Attendance - AI/Diagram.md",
-    "Attendance - AI",
     "Welcome.md"
   ]
 }
