@@ -1,4 +1,5 @@
 ***
+
 **Bar Graph
 ```    
 SELECT exam_id  
