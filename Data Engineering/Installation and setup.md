@@ -33,3 +33,5 @@ updated_at: 2024 September 1
 
 ## Deploy Clickhouse using docker
 
+[Github link for docker compose](https://gist.github.com/rosonkhadka/eeaafb076111eae07b5c9cdfbe031e17)
+
