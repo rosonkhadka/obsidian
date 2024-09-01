@@ -13,10 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/August 30,  Friday.md",
+                "file": "Kavya/Settings/Settings.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/August 30,  Friday.md",
+                "file": "Kavya/Settings/Settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/August 30,  Friday.md",
+                "file": "Kavya/Settings/Settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/August 30,  Friday.md"
+                "file": "Kavya/Settings/Settings.md"
               }
             }
           }
@@ -152,8 +151,11 @@
   },
   "active": "d5ef8b1eb1867c45",
   "lastOpenFiles": [
-    "Attendance - AI/Diagram.md",
+    "Kavya/CCA Import.md",
+    "Kavya/Settings/Settings.md",
+    "Kavya/CCA import diagram.md",
     "Journal/August 30,  Friday.md",
+    "Attendance - AI/Diagram.md",
     "Kavya/MISC/Mark History.md",
     "Journal",
     "Event Driven Design",
@@ -168,10 +170,7 @@
     "Keycloak/Laravel Integration",
     "Keycloak/Documentations.md",
     "Keycloak",
-    "Kavya/Settings/Settings.md",
     "Kavya/Settings",
-    "Kavya/CCA import diagram.md",
-    "Kavya/CCA Import.md",
     "Kavya",
     "Excalidraw/chatbot.md",
     "Excalidraw/Data Engineering Diagram.md",

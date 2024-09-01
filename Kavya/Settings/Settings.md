@@ -24,15 +24,3 @@
 	4. Checked By
 		1. Drop down - Staff
 
-
-
-composer
-node
-cron
-queue
-horizon
-artisan
-
-
----
-images (assets)
