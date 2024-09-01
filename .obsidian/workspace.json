@@ -146,9 +146,17 @@
                 "file": "Data Engineering/Data Analysis and Visualization Project.md"
               }
             }
+          },
+          {
+            "id": "0e044845d54a31e4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
