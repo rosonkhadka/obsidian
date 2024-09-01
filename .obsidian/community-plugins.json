@@ -3,5 +3,8 @@
   "table-editor-obsidian",
   "obsidian-tasks-plugin",
   "obsidian-icon-folder",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-vimrc-support",
+  "obsidian-relative-line-numbers",
+  "hk-code-block"
 ]
