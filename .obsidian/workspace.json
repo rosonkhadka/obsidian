@@ -19,24 +19,22 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "00bd465d4d623a6f",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "e59200c686b465b5",
+            "id": "837489d8ab36ed24",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Data Engineering/Data Engineering Diagram.md"
+                "file": "Data Engineering/Installation and setup.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9ab319eef471c513",
@@ -103,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Engineering/Data Analysis and Visualization Project.md",
+                "file": "Data Engineering/Installation and setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Engineering/Data Analysis and Visualization Project.md",
+                "file": "Data Engineering/Installation and setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Engineering/Data Analysis and Visualization Project.md"
+                "file": "Data Engineering/Installation and setup.md"
               }
             }
           },
@@ -175,9 +172,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "922a15f4da8d9ae9",
+  "active": "837489d8ab36ed24",
   "lastOpenFiles": [
     "Data Engineering/Data Engineering Diagram.md",
+    "Data Engineering/Installation and setup.md",
     "Data Engineering/Data Analysis and Visualization Project.md",
     "Kavya/Settings/Settings.md",
     "Backups/Kavya Report remarks extraction.md",
