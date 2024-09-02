@@ -11,12 +11,9 @@
             "id": "922a15f4da8d9ae9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Data Engineering/Data Analysis and Visualization Project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Data Engineering/Data Engineering Diagram.md"
               }
             }
           },
@@ -26,15 +23,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Engineering/Installation and setup.md",
+                "file": "Backups/Kavya Report remarks extraction.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Engineering/Installation and setup.md",
+                "file": "Data Engineering/Data Engineering Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Engineering/Installation and setup.md",
+                "file": "Data Engineering/Data Engineering Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Engineering/Installation and setup.md"
+                "file": "Data Engineering/Data Engineering Diagram.md"
               }
             }
           },
@@ -172,20 +168,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "837489d8ab36ed24",
+  "active": "922a15f4da8d9ae9",
   "lastOpenFiles": [
-    "Data Engineering/Data Engineering Diagram.md",
-    "Data Engineering/Installation and setup.md",
     "Data Engineering/Data Analysis and Visualization Project.md",
-    "Kavya/Settings/Settings.md",
     "Backups/Kavya Report remarks extraction.md",
     "Backups/Formula - Kavya Report Card.md",
-    "Backups",
+    "Kavya/MISC/Mark History.md",
+    "Kavya/Settings/Settings.md",
     "Kavya/CCA Import.md",
+    "Data Engineering/Installation and setup.md",
+    "Data Engineering/Data Engineering Diagram.md",
+    "Backups",
     "Kavya/CCA import diagram.md",
     "Journal/August 30,  Friday.md",
     "Attendance - AI/Diagram.md",
-    "Kavya/MISC/Mark History.md",
     "Journal",
     "Event Driven Design",
     "Refactor/MST V2/Refactor.md",
