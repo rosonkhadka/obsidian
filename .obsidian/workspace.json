@@ -11,9 +11,12 @@
             "id": "922a15f4da8d9ae9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Data Engineering/Data Engineering Diagram.md"
+                "file": "Kavya/image upload/Image upload flow.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -96,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Engineering/Data Engineering Diagram.md",
+                "file": "Kavya/image upload/Image upload flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Engineering/Data Engineering Diagram.md",
+                "file": "Kavya/image upload/Image upload flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Engineering/Data Engineering Diagram.md"
+                "file": "Kavya/image upload/Image upload flow.md"
               }
             }
           },
@@ -170,6 +173,9 @@
   },
   "active": "922a15f4da8d9ae9",
   "lastOpenFiles": [
+    "Data Engineering/Data Engineering Diagram.md",
+    "Kavya/image upload/Image upload flow.md",
+    "Kavya/image upload",
     "Data Engineering/Data Analysis and Visualization Project.md",
     "Backups/Kavya Report remarks extraction.md",
     "Backups/Formula - Kavya Report Card.md",
@@ -177,7 +183,6 @@
     "Kavya/Settings/Settings.md",
     "Kavya/CCA Import.md",
     "Data Engineering/Installation and setup.md",
-    "Data Engineering/Data Engineering Diagram.md",
     "Backups",
     "Kavya/CCA import diagram.md",
     "Journal/August 30,  Friday.md",
@@ -195,7 +200,6 @@
     "Keycloak/Laravel Integration",
     "Keycloak/Documentations.md",
     "Keycloak",
-    "Kavya/Settings",
     "Excalidraw/chatbot.md",
     "Welcome.md"
   ]
