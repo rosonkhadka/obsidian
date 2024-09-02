@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kavya/image upload/Image upload flow.md",
+                "file": "Java/Account Removal.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kavya/image upload/Image upload flow.md",
+                "file": "Java/Account Removal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kavya/image upload/Image upload flow.md",
+                "file": "Java/Account Removal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kavya/image upload/Image upload flow.md"
+                "file": "Java/Account Removal.md"
               }
             }
           },
@@ -173,8 +173,10 @@
   },
   "active": "922a15f4da8d9ae9",
   "lastOpenFiles": [
-    "Data Engineering/Data Engineering Diagram.md",
     "Kavya/image upload/Image upload flow.md",
+    "Java/Account Removal.md",
+    "Java",
+    "Data Engineering/Data Engineering Diagram.md",
     "Kavya/image upload",
     "Data Engineering/Data Analysis and Visualization Project.md",
     "Backups/Kavya Report remarks extraction.md",
@@ -199,7 +201,6 @@
     "Keycloak/keycloak - diagram.md",
     "Keycloak/Laravel Integration",
     "Keycloak/Documentations.md",
-    "Keycloak",
     "Excalidraw/chatbot.md",
     "Welcome.md"
   ]
