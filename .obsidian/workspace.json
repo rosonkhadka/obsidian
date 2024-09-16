@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server/Server Details.md",
+                "file": "Kavya/TODO.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server/Server Details.md",
+                "file": "Kavya/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server/Server Details.md",
+                "file": "Kavya/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Server/Server Details.md"
+                "file": "Kavya/TODO.md"
               }
             }
           },
@@ -184,10 +184,11 @@
   },
   "active": "f2571ed858e7618c",
   "lastOpenFiles": [
+    "Server/Server Details.md",
+    "Kavya/TODO.md",
     "Excalidraw/Drawing 2024-09-03 11.34.46.excalidraw.md",
     "Keycloak/keycloak - diagram.md",
     "Keycloak/Documentations.md",
-    "Server/Server Details.md",
     "Java/Account Removal.md",
     "Server",
     "Kavya/image upload/Image upload flow.md",
