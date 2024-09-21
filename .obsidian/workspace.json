@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kavya/TODO.md",
+                "file": "Kavya/Rabbitmq/Student.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kavya/TODO.md",
+                "file": "Kavya/Rabbitmq/Student.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kavya/TODO.md",
+                "file": "Kavya/Rabbitmq/Student.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kavya/TODO.md"
+                "file": "Kavya/Rabbitmq/Student.md"
               }
             }
           },
@@ -182,10 +182,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2571ed858e7618c",
+  "active": "dbd42dfc00ecd563",
   "lastOpenFiles": [
-    "Server/Server Details.md",
+    "Kavya/Rabbitmq/Sections.md",
+    "Kavya/Rabbitmq/Student.md",
     "Kavya/TODO.md",
+    "Kavya/Rabbitmq",
+    "Server/Server Details.md",
     "Excalidraw/Drawing 2024-09-03 11.34.46.excalidraw.md",
     "Keycloak/keycloak - diagram.md",
     "Keycloak/Documentations.md",
@@ -214,7 +217,6 @@
     "Refactor",
     "Keycloak/Laravel Integration/Filament/filament-keycloak-diagram.excalidraw.md",
     "Keycloak/Laravel Integration/Filament/Docs.md",
-    "Keycloak/Laravel Integration/Filament",
     "Excalidraw/chatbot.md",
     "Welcome.md"
   ]
