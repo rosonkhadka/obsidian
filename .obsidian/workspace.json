@@ -31,6 +31,16 @@
             }
           },
           {
+            "id": "4fe6fe20d102f890",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Kavya/Rabbitmq/student_subject.md"
+              }
+            }
+          },
+          {
             "id": "837489d8ab36ed24",
             "type": "leaf",
             "state": {
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Keycloak/keycloak - diagram.md",
+                "file": "Kavya/Rabbitmq/student_subject.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Keycloak/keycloak - diagram.md",
+                "file": "Kavya/Rabbitmq/student_subject.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Keycloak/keycloak - diagram.md"
+                "file": "Kavya/Rabbitmq/student_subject.md"
               }
             }
           },
@@ -182,15 +192,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dbd42dfc00ecd563",
+  "active": "4fe6fe20d102f890",
   "lastOpenFiles": [
-    "Kavya/Rabbitmq/Sections.md",
     "Kavya/Rabbitmq/Student.md",
+    "Kavya/Rabbitmq/student_subject.md",
+    "Kavya/Rabbitmq/Sections.md",
+    "Keycloak/keycloak - diagram.md",
     "Kavya/TODO.md",
     "Kavya/Rabbitmq",
     "Server/Server Details.md",
     "Excalidraw/Drawing 2024-09-03 11.34.46.excalidraw.md",
-    "Keycloak/keycloak - diagram.md",
     "Keycloak/Documentations.md",
     "Java/Account Removal.md",
     "Server",
