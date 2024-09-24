@@ -41,6 +41,16 @@
             }
           },
           {
+            "id": "dd177b452a3fcdaf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-24 14.53.41.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "837489d8ab36ed24",
             "type": "leaf",
             "state": {
@@ -54,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kavya/Rabbitmq/student_subject.md",
+                "file": "Excalidraw/Drawing 2024-09-24 14.53.41.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kavya/Rabbitmq/student_subject.md",
+                "file": "Excalidraw/Drawing 2024-09-24 14.53.41.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kavya/Rabbitmq/student_subject.md"
+                "file": "Excalidraw/Drawing 2024-09-24 14.53.41.excalidraw.md"
               }
             }
           },
@@ -192,10 +202,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fe6fe20d102f890",
+  "active": "dd177b452a3fcdaf",
   "lastOpenFiles": [
-    "Kavya/Rabbitmq/Student.md",
     "Kavya/Rabbitmq/student_subject.md",
+    "Excalidraw/Drawing 2024-09-24 14.53.41.excalidraw.md",
+    "Kavya/Rabbitmq/Student.md",
     "Kavya/Rabbitmq/Sections.md",
     "Keycloak/keycloak - diagram.md",
     "Kavya/TODO.md",
@@ -228,7 +239,6 @@
     "Refactor",
     "Keycloak/Laravel Integration/Filament/filament-keycloak-diagram.excalidraw.md",
     "Keycloak/Laravel Integration/Filament/Docs.md",
-    "Excalidraw/chatbot.md",
-    "Welcome.md"
+    "Excalidraw/chatbot.md"
   ]
 }
