@@ -207,32 +207,6 @@
         "groupName": "Kothiyaghat",
         "currentYear": 11,
         "semester": "First Semester"
-    },
-    {
-        "name": "Niraj Tamang",
-        "collegeId": "NP0123456805",
-        "course": "Non-Science",
-        "dobInAd": "2007-02-27",
-        "dobInBs": "2063-11-16",
-        "enrolledYear": "2081",
-        "gender": "M",
-        "studentId": "123456805",
-        "groupName": "Kupindedaha",
-        "currentYear": 11,
-        "semester": "First Semester"
-    },
-    {
-        "name": "Sushila Lama",
-        "collegeId": "NP0123456806",
-        "course": "Science",
-        "dobInAd": "2008-01-18",
-        "dobInBs": "2064-09-04",
-        "enrolledYear": "2080",
-        "gender": "F",
-        "studentId": "123456806",
-        "groupName": "Kupindedaha",
-        "currentYear": 11,
-        "semester": "First Semester"
     }
 ]
 
