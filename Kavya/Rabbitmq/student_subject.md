@@ -103,5 +103,15 @@ XAkLT6xDWRQjU+hyKCyZC0wEjJvt9xb7JUChuAY4F308adsGBhnQiNsGUivBMC0oiPP1z2y1Cx25YbaG
 aZEyAGlJ8mZTZk0nLSnFPykZAXYNfNIblJCkZSMgoETkVSVsl5SEp+gSoKsPrFT9Gp1U9gWFNalVi0inU9Kd1IyDxFeqzY2KU1Jqn6BTJqg++uoOUYlTmp1QTQWoNA7v0XqSCbAFiFFD9BuAGaQeBt2UyPR4+/zDUJtIJD4Bs4RYUCWZALS+V+MZESrIUAgBGA2ABgeAQwAIDewnyKmdSL9L+m/TTgMxBaZNPKkQIz0CaecJ5MZAkBwm806GVFJS
 
 h8QDEBIYJCSE6BPB0Z6MwUG7GUBhg+QpIHDoTLbZAyJp9ME+HVM17pRgiEAOAIEDMDCBmAiGM2MQFhmAcGS26N2FGDNgAc+IWQXAJoGCACRdxmTH8XJPCIGorJwxeSSIydjzMpZek48SIw3E5AxQBqOAH5zYBEwlp/MwWc13AA8QhQIocILWRsTZggAA
+
+
+
+
+
+
+Received message: [{'name': 'Dhorpatan', 'course': 'Science'}, {'name': 'Dolpo', 'course': 'Science'}, {'name': 'Kothiyaghat', 'course': 'Science'}, {'name': 'Kupindedaha', 'course': 'Science'}, {'name': 'Pachal', 'course': 'Science'}, {'name': 'Panchakoshi', 'course': 'Science'}, {'name': 'Ranimahal', 'course': 'Science'}, {'name': 'Sinja Valley', 'course': 'Science'}, {'name': 'Swargadwari', 'course': 'Science'}, {'name': 'Aalital', 'course': 'Non-Science'}, {'name': 'Badimalika', 'course': 'Non-Science'}, {'name': 'Dashrathchand', 'course': 'Non-Science'}, {'name': 'Khaptad', 'course': 'Non-Science'}, {'name': 'Rama Roshan', 'course': 'Non-Science'}, {'name': 'Shuklaphata', 'course': 'Non-Science'}, {'name': 'Surma Sarovar', 'course': 'Non-Science'}, {'name': 'Kapuche Lake', 'course': 'Science'}, {'name': 'Ligligkot', 'course': 'Science'}, {'name': 'Rainaskot', 'course': 'Science'}, {'name': 'Lho', 'course': 'Non-Science'}, {'name': 'Lo Manthang', 'course': 'Non-Science'}]
+Received message: [{'id': None, 'name': 'Aashma Paudel', 'updatedBy': None, 'createdBy': None, 'createdDate': '2024-09-29T10:18:46.706+00:00', 'pageSize': None, 'status': 'A', 'resourceLink': None, 'collegeEmail': 'college@gmail.com', 'collegeId': 'NP-Something', 'correspondingAddress': 'Buddhnalinkantha, Kathamandu, Nepal', 'course': 'Science', 'dobInAd': None, 'enrolledYear': '2080', 'fatherEmail': 'father@gmail.com', 'fatherName': 'father', 'fatherNumber': '***', 'formState': 'F', 'gender': 'F', 'guardianEmail': 'guardian@gmail.com', 'guardianNumber': '****', 'intake': 'A2G', 'motherEmail': 'mother@gmail.com', 'motherName': 'mother', 'motherNumber': '***', 'permanentAddress': 'Buddhnalinkantha, Kathamandu, Nepal', 'studentPersonalEmail': 'student@gmail.com', 'studentId': '23316064', 'studentPhoneNumber': '980111111111', 'groupName': 'Kamalpokhari', 'currentYear': 11, 'tenant': 'kavya', 'studentImage': None}]
+
+
 ```
 %%
