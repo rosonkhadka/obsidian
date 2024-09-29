@@ -2,87 +2,108 @@
 [
     {
         "name": "Dhorpatan",
-        "course": "Science"
+        "course": "Science",
+        "grade": 11
     },
     {
         "name": "Dolpo",
-        "course": "Science"
+        "course": "Science",
+        "grade": 11
     },
     {
         "name": "Kothiyaghat",
-        "course": "Science"
+        "course": "Science",
+        "grade": 11
     },
     {
         "name": "Kupindedaha",
-        "course": "Science"
+        "course": "Science",
+        "grade": 11
     },
     {
         "name": "Pachal",
-        "course": "Science"
+        "course": "Science",
+        "grade": 11
     },
     {
         "name": "Panchakoshi",
-        "course": "Science"
+        "course": "Science",
+        "grade": 11
     },
     {
         "name": "Ranimahal",
-        "course": "Science"
+        "course": "Science",
+        "grade": 11
     },
     {
         "name": "Sinja Valley",
-        "course": "Science"
+        "course": "Science",
+        "grade": 11
     },
     {
         "name": "Swargadwari",
-        "course": "Science"
-    },
-    {
-        "name": "Aalital",
-        "course": "Non-Science"
-    },
-    {
-        "name": "Badimalika",
-        "course": "Non-Science"
-    },
-    {
-        "name": "Dashrathchand",
-        "course": "Non-Science"
-    },
-    {
-        "name": "Khaptad",
-        "course": "Non-Science"
-    },
-    {
-        "name": "Rama Roshan",
-        "course": "Non-Science"
-    },
-    {
-        "name": "Shuklaphata",
-        "course": "Non-Science"
-    },
-    {
-        "name": "Surma Sarovar",
-        "course": "Non-Science"
+        "course": "Science",
+        "grade": 11
     },
     {
         "name": "Kapuche Lake",
-        "course": "Science"
+        "course": "Science",
+        "grade": 12
     },
     {
         "name": "Ligligkot",
-        "course": "Science"
+        "course": "Science",
+        "grade": 12
     },
     {
         "name": "Rainaskot",
-        "course": "Science"
+        "course": "Science",
+        "grade": 12
+    },
+    {
+        "name": "Aalital",
+        "course": "Non-Science",
+        "grade": 11
+    },
+    {
+        "name": "Badimalika",
+        "course": "Non-Science",
+        "grade": 11
+    },
+    {
+        "name": "Dashrathchand",
+        "course": "Non-Science",
+        "grade": 11
+    },
+    {
+        "name": "Khaptad",
+        "course": "Non-Science",
+        "grade": 11
+    },
+    {
+        "name": "Rama Roshan",
+        "course": "Non-Science",
+        "grade": 11
+    },
+    {
+        "name": "Shuklaphata",
+        "course": "Non-Science",
+        "grade": 11
+    },
+    {
+        "name": "Surma Sarovar",
+        "course": "Non-Science",
+        "grade": 11
     },
     {
         "name": "Lho",
-        "course": "Non-Science"
+        "course": "Non-Science",
+        "grade": 12
     },
     {
         "name": "Lo Manthang",
-        "course": "Non-Science"
+        "course": "Non-Science",
+        "grade": 12
     }
 ]
 ```
