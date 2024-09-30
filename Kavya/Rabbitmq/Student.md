@@ -81,7 +81,7 @@
     {
         "name": "Kamal Khadka",
         "collegeId": "NP0123456795",
-        "course": "Science",
+        "course": "Non-Science",
         "dobInAd": "2007-03-18",
         "dobInBs": "2063-12-05",
         "enrolledYear": "2081",
@@ -94,7 +94,7 @@
     {
         "name": "Anisha Magar",
         "collegeId": "NP0123456796",
-        "course": "Science",
+        "course": "Non-Science",
         "dobInAd": "2008-10-08",
         "dobInBs": "2065-06-23",
         "enrolledYear": "2081",
@@ -107,7 +107,7 @@
     {
         "name": "Sujan Bhandari",
         "collegeId": "NP0123456797",
-        "course": "Science",
+        "course": "Non-Science",
         "dobInAd": "2007-07-20",
         "dobInBs": "2064-04-06",
         "enrolledYear": "2081",
@@ -120,7 +120,7 @@
     {
         "name": "Rita Sharma",
         "collegeId": "NP0123456798",
-        "course": "Science",
+        "course": "Non-Science",
         "dobInAd": "2008-02-14",
         "dobInBs": "2064-11-01",
         "enrolledYear": "2080",
@@ -172,7 +172,7 @@
     {
         "name": "Nirjala Pandey",
         "collegeId": "NP0123456802",
-        "course": "Non-Science",
+        "course": "Science",
         "dobInAd": "2008-04-20",
         "dobInBs": "2065-01-08",
         "enrolledYear": "2080",
@@ -211,7 +211,7 @@
 {
         "name": "Niraj Tamang",
         "collegeId": "NP0123456805",
-        "course": "Non-Science",
+        "course": "Science",
         "dobInAd": "2007-06-28",
         "dobInBs": "2064-03-14",
         "enrolledYear": "2081",
@@ -224,7 +224,7 @@
     {
         "name": "Aditi Thapa",
         "collegeId": "NP0123456806",
-        "course": "Non-Science",
+        "course": "Science",
         "dobInAd": "2008-05-22",
         "dobInBs": "2065-01-09",
         "enrolledYear": "2080",
@@ -341,7 +341,7 @@
     {
         "name": "Rohan Joshi",
         "collegeId": "NP0123456815",
-        "course": "Non-Science",
+        "course": "Science",
         "dobInAd": "2008-11-02",
         "dobInBs": "2065-07-18",
         "enrolledYear": "2080",
@@ -354,7 +354,7 @@
     {
         "name": "Diksha Duwal",
         "collegeId": "NP0123456816",
-        "course": "Non-Science",
+        "course": "Science",
         "dobInAd": "2007-04-14",
         "dobInBs": "2064-01-01",
         "enrolledYear": "2081",
