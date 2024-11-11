@@ -1,9 +1,10 @@
 Initial Setup - Done
 Tenancy Setup
 	- Tenancy package - Done
-	- Tenancy package configuration - Review
+	- Tenancy package configuration - Done
 	- Tenancy sass platform - Todo
-	- Route migration - Review
+		- Cloudflare setup - Todo
+	- Route migration - Done
 	- Tenancy test configuration schema based - Todo
 	- Tenancy application test - Todo
 	- Replicate script for cloning prod - Todo
