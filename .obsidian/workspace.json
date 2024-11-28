@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "ef5d7cb5d8c987fb",
+    "id": "f6f81b910e4e7e9f",
     "type": "split",
     "children": [
       {
-        "id": "4cf525833610cb14",
+        "id": "8a3f68ec2b964d56",
         "type": "tabs",
         "children": [
           {
-            "id": "31ae0e4d675a756b",
+            "id": "3c963c2b9f05fcd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,38 +17,61 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TODO"
+              }
+            }
+          },
+          {
+            "id": "3b675bb880ab5992",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLMS API V2/Data Migration.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "896644e682e8e7fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLMS API V2/Requirements.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fdab459d2e4b0075",
+    "id": "b2e43d01322cf0b7",
     "type": "split",
     "children": [
       {
-        "id": "c38b308ce69f6679",
+        "id": "459fd01ec28d2749",
         "type": "tabs",
         "children": [
           {
-            "id": "dbd42dfc00ecd563",
+            "id": "97ddca7219f8b11d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              }
             }
           },
           {
-            "id": "f3165b709fc032d8",
+            "id": "f3908d2bccf93b27",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,19 +82,15 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
-            "id": "3f5dc95d7fe03a6b",
+            "id": "fadbf42a95b775e3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -81,20 +100,20 @@
     "width": 300
   },
   "right": {
-    "id": "9ab319eef471c513",
+    "id": "9de499c7c094db1d",
     "type": "split",
     "children": [
       {
-        "id": "f800bdadcf531ab0",
+        "id": "9a258d4f7a04c4dc",
         "type": "tabs",
         "children": [
           {
-            "id": "60075dbf72b67400",
+            "id": "39060aeb0f81477f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-03 11.34.46.excalidraw.md",
+                "file": "CLMS API V2/Data Migration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,62 +121,43 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2024-09-03 11.34.46.excalidraw"
+              }
             }
           },
           {
-            "id": "c8d9bcc9039082f2",
+            "id": "42b4fc4a09569fcc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-03 11.34.46.excalidraw.md",
+                "file": "CLMS API V2/Data Migration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2024-09-03 11.34.46.excalidraw"
+              }
             }
           },
           {
-            "id": "05409cc0da73a5f6",
+            "id": "c0ace4faf4f7c0dc",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
-            "id": "d7ec0ecae66971db",
+            "id": "f42cad5a7b2df663",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-03 11.34.46.excalidraw.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Drawing 2024-09-03 11.34.46.excalidraw"
-            }
-          },
-          {
-            "id": "0e044845d54a31e4",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+                "file": "CLMS API V2/Data Migration.md"
+              }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,53 +166,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "31ae0e4d675a756b",
+  "active": "3b675bb880ab5992",
   "lastOpenFiles": [
-    "Untitled.md",
+    "CLMS API V2/Requirements.md",
+    "CLMS API V2/Data Migration.md",
     "CLMS API V2/TODO.md",
-    "CLMS API V2",
-    "Excalidraw/Drawing 2024-09-24 14.53.41.excalidraw.md",
+    "Untitled",
+    "Untitled.md",
+    "Server/Server Details.md",
+    "Server",
+    "Refactor/MST V2/Refactor.md",
+    "Refactor/MST V2",
+    "Refactor",
+    "Keycloak/Laravel Integration/Filament/filament-keycloak-diagram.excalidraw.md",
+    "Keycloak/Laravel Integration/Filament/Docs.md",
+    "Keycloak/Laravel Integration/Filament",
+    "Keycloak/Laravel Integration",
+    "Keycloak/keycloak - diagram.md",
+    "Keycloak/Documentations.md",
+    "Keycloak",
+    "Kavya/Settings/Settings.md",
     "Kavya/Rabbitmq/student_subject.md",
     "Kavya/Rabbitmq/Student.md",
-    "Kavya/Rabbitmq/Sections.md",
-    "Keycloak/keycloak - diagram.md",
-    "Kavya/TODO.md",
-    "Kavya/Rabbitmq",
-    "Server/Server Details.md",
-    "Excalidraw/Drawing 2024-09-03 11.34.46.excalidraw.md",
-    "Keycloak/Documentations.md",
-    "Java/Account Removal.md",
-    "Server",
-    "Kavya/image upload/Image upload flow.md",
-    "Java",
-    "Data Engineering/Data Engineering Diagram.md",
-    "Kavya/image upload",
-    "Data Engineering/Data Analysis and Visualization Project.md",
-    "Backups/Kavya Report remarks extraction.md",
-    "Backups/Formula - Kavya Report Card.md",
     "Kavya/MISC/Mark History.md",
-    "Kavya/Settings/Settings.md",
+    "Kavya/Rabbitmq/Sections.md",
+    "Kavya/image upload/Image upload flow.md",
+    "Kavya/TODO.md",
+    "Kavya/Settings",
+    "Kavya/Rabbitmq",
+    "Kavya/MISC",
     "Kavya/CCA Import.md",
-    "Data Engineering/Installation and setup.md",
-    "Backups",
     "Kavya/CCA import diagram.md",
     "Journal/August 30,  Friday.md",
-    "Attendance - AI/Diagram.md",
-    "Journal",
-    "Event Driven Design",
-    "Refactor/MST V2/Refactor.md",
-    "Kavya/MISC",
-    "Refactor/MST V2",
-    "Keycloak/Laravel Integration/Filament/filament-keycloak-diagram.excalidraw.md"
+    "Java/Account Removal.md",
+    "Excalidraw/Drawing 2024-09-24 14.53.41.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-03 11.34.46.excalidraw.md",
+    "Excalidraw/chatbot.md",
+    "Data Engineering/Installation and setup.md",
+    "Data Engineering/Data Engineering Diagram.md",
+    "Untitled.canvas"
   ]
 }
