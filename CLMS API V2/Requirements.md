@@ -49,6 +49,23 @@ supervisor - | -(Import, ID Logs, Delete, Remarks Delete, Update {Timeframe}, Ev
 BD | -(Import, ID Logs, Delete, Remarks Delete, Update {Timeframe}, Event CRUD)
 caller | -DO(Remarks, Update (Visitor category, Secondary Phone Number (Personal))) | Assigned Date ()
 
+---
+
+Additional Requirement
+---
+
+
+
+College 
+	1. All other address removed
+------
+Remarks Reporting
+	1. College Distinct
+		1. Last Caller - Date
+		2. Total Remarks
+
+Assign
+	1. 
 
 
 
