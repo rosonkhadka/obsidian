@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Duel Booting.md",
+                "file": "CLMS API V2/Configuration.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Duel Booting"
+              "title": "Configuration"
             }
           }
         ],
@@ -193,8 +193,9 @@
   },
   "active": "ec32b46e7e7d12de",
   "lastOpenFiles": [
-    "Celavi/API.md",
     "Duel Booting.md",
+    "CLMS API V2/Configuration.md",
+    "Celavi/API.md",
     "Server Req/Server.md",
     "Celavi",
     "2024-11-29.md",
@@ -228,7 +229,6 @@
     "Kavya/image upload/Image upload flow.md",
     "Kavya/TODO.md",
     "Kavya/Settings",
-    "Kavya/Rabbitmq",
-    "Kavya/CCA Import.md"
+    "Kavya/Rabbitmq"
   ]
 }
