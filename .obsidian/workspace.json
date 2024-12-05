@@ -1,40 +1,39 @@
 {
   "main": {
-    "id": "f6f81b910e4e7e9f",
+    "id": "aa5cb5a5fe2297fc",
     "type": "split",
     "children": [
       {
-        "id": "61b689cebf820e20",
+        "id": "ff30892ea5baacb4",
         "type": "tabs",
         "children": [
           {
-            "id": "331dd74609ed5bb6",
+            "id": "aab58d1f7942c798",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Celavi/API.md",
+                "file": "CLMS API V2/Requirements.md",
                 "mode": "source",
-                "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "API"
+              "title": "Requirements"
             }
           },
           {
-            "id": "ec32b46e7e7d12de",
+            "id": "c39c950924338d50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLMS API V2/Configuration.md",
+                "file": "Superadmin.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configuration"
+              "title": "Superadmin"
             }
           }
         ],
@@ -44,15 +43,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b2e43d01322cf0b7",
+    "id": "5955d6c41ba29dc8",
     "type": "split",
     "children": [
       {
-        "id": "459fd01ec28d2749",
+        "id": "8e09d404e40fed8c",
         "type": "tabs",
         "children": [
           {
-            "id": "97ddca7219f8b11d",
+            "id": "ac3f602d271a52af",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,7 +63,7 @@
             }
           },
           {
-            "id": "f3908d2bccf93b27",
+            "id": "a0f1d4f2a7aeec1e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -81,7 +80,7 @@
             }
           },
           {
-            "id": "fadbf42a95b775e3",
+            "id": "06036c6a9b9d41c5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,23 +93,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 222.5
   },
   "right": {
-    "id": "9de499c7c094db1d",
+    "id": "88f1cae700df6451",
     "type": "split",
     "children": [
       {
-        "id": "9a258d4f7a04c4dc",
+        "id": "c5bc99fb1cb30a04",
         "type": "tabs",
         "children": [
           {
-            "id": "39060aeb0f81477f",
+            "id": "d05881c47bcb40e3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server Req/Server.md",
+                "file": "Superadmin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Server"
+              "title": "Backlinks for Superadmin"
             }
           },
           {
-            "id": "42b4fc4a09569fcc",
+            "id": "4c091e9dc8d07374",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server Req/Server.md",
+                "file": "Superadmin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Server"
+              "title": "Outgoing links from Superadmin"
             }
           },
           {
-            "id": "c0ace4faf4f7c0dc",
+            "id": "9d60ffb1c87dbfa6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -151,38 +150,26 @@
             }
           },
           {
-            "id": "f42cad5a7b2df663",
+            "id": "237b209d8b5adf19",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Server Req/Server.md"
+                "file": "Superadmin.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Server"
-            }
-          },
-          {
-            "id": "81ed0806a34afcec",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "title": "Outline of Superadmin"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -191,44 +178,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec32b46e7e7d12de",
+  "active": "c39c950924338d50",
   "lastOpenFiles": [
-    "Duel Booting.md",
-    "CLMS API V2/Configuration.md",
-    "Celavi/API.md",
-    "Server Req/Server.md",
-    "Celavi",
-    "2024-11-29.md",
-    "Server/Server Details.md",
-    "Excalidraw/Drawing 2024-11-29 15.36.56.excalidraw.md",
-    "Untitled.canvas",
-    "Excalidraw/Drawing 2024-11-29 15.36.51.excalidraw.md",
-    "CLMS API V2/UI - Response Refactor.md",
     "CLMS API V2/Requirements.md",
+    "Superadmin.md",
+    "CLMS API V2/UI - Response Refactor.md",
+    "CLMS API V2/Configuration.md",
+    "CLMS API V2/Data Migration.md",
     "CLMS API V2/Frontend Refactor.md",
     "CLMS API V2/Production Migration.md",
-    "CLMS API V2/Data Migration.md",
     "CLMS API V2/TODO.md",
-    "Server Req",
+    "Server/Server Details.md",
     "Server",
+    "Server Req/Server.md",
+    "Server Req",
     "Refactor/MST V2/Refactor.md",
     "Refactor/MST V2",
     "Refactor",
     "Keycloak/Laravel Integration/Filament/filament-keycloak-diagram.excalidraw.md",
     "Keycloak/Laravel Integration/Filament/Docs.md",
     "Keycloak/Laravel Integration/Filament",
-    "Keycloak/Laravel Integration",
     "Keycloak/keycloak - diagram.md",
+    "Keycloak/Laravel Integration",
     "Keycloak/Documentations.md",
     "Keycloak",
-    "Kavya/Settings/Settings.md",
+    "Kavya/image upload/Image upload flow.md",
     "Kavya/Rabbitmq/student_subject.md",
     "Kavya/Rabbitmq/Student.md",
-    "Kavya/MISC/Mark History.md",
     "Kavya/Rabbitmq/Sections.md",
-    "Kavya/image upload/Image upload flow.md",
+    "Kavya/Settings/Settings.md",
+    "Kavya/MISC/Mark History.md",
+    "Kavya/image upload",
     "Kavya/TODO.md",
     "Kavya/Settings",
-    "Kavya/Rabbitmq"
+    "Kavya/Rabbitmq",
+    "Kavya/CCA import diagram.md",
+    "Kavya/CCA Import.md",
+    "Journal/August 30,  Friday.md",
+    "Java/Account Removal.md"
   ]
 }
