@@ -27,13 +27,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLMS API V2/Requirements.md",
+                "file": "Celavi/TODO.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Requirements"
+              "title": "TODO"
             }
           }
         ],
@@ -182,10 +182,12 @@
   },
   "active": "c39c950924338d50",
   "lastOpenFiles": [
+    "Celavi/API.md",
+    "Celavi/TODO.md",
+    "CLMS API V2/Requirements.md",
     "CLMS API V2/Production Migration.md",
     "CLMS API V2/UI - Response Refactor.md",
     "CLMS API V2/TODO.md",
-    "CLMS API V2/Requirements.md",
     "CLMS API V2/Data Migration.md",
     "CLMS API V2/Configuration.md",
     "Superadmin.md",
@@ -215,8 +217,6 @@
     "Kavya/Settings",
     "Kavya/Rabbitmq",
     "Kavya/CCA import diagram.md",
-    "Kavya/CCA Import.md",
-    "Journal/August 30,  Friday.md",
-    "Java/Account Removal.md"
+    "Kavya/CCA Import.md"
   ]
 }
