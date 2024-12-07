@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Celavi/TODO.md",
+                "file": "Book Recommender/TODO.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -182,8 +182,10 @@
   },
   "active": "c39c950924338d50",
   "lastOpenFiles": [
-    "Celavi/API.md",
     "Celavi/TODO.md",
+    "Book Recommender/TODO.md",
+    "Book Recommender",
+    "Celavi/API.md",
     "CLMS API V2/Requirements.md",
     "CLMS API V2/Production Migration.md",
     "CLMS API V2/UI - Response Refactor.md",
@@ -215,8 +217,6 @@
     "Kavya/image upload",
     "Kavya/TODO.md",
     "Kavya/Settings",
-    "Kavya/Rabbitmq",
-    "Kavya/CCA import diagram.md",
-    "Kavya/CCA Import.md"
+    "Kavya/CCA import diagram.md"
   ]
 }
