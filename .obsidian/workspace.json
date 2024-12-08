@@ -11,10 +11,15 @@
             "id": "1f6820df45078c5d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Filter System.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Filter System"
             }
           }
         ]
@@ -162,6 +167,7 @@
   },
   "active": "1f6820df45078c5d",
   "lastOpenFiles": [
+    "Filter System.md",
     "CLMS API V2/Requirements.md",
     "Book Recommender/TODO.md",
     "Celavi/TODO.md",
@@ -196,7 +202,6 @@
     "Kavya/MISC/Mark History.md",
     "Kavya/image upload",
     "Kavya/TODO.md",
-    "Kavya/Settings",
-    "Kavya/CCA import diagram.md"
+    "Kavya/Settings"
   ]
 }
