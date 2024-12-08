@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filter System.md",
+                "file": "Impersonator.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Filter System"
+              "title": "Impersonator"
             }
           }
         ]
@@ -167,7 +167,7 @@
   },
   "active": "1f6820df45078c5d",
   "lastOpenFiles": [
-    "Filter System.md",
+    "Impersonator.md",
     "CLMS API V2/Requirements.md",
     "Book Recommender/TODO.md",
     "Celavi/TODO.md",
