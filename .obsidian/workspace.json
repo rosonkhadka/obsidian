@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLMS API V2/Visitor Details.md",
+                "file": "CLMS API V2/Requirements.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Visitor Details"
+              "title": "Requirements"
             }
           }
         ],
@@ -183,8 +183,10 @@
   },
   "active": "525bc025425ab9eb",
   "lastOpenFiles": [
-    "CLMS API V2/Requirements.md",
+    "CLMS API V2/TODO.md",
+    "CLMS API V2/UI - Response Refactor.md",
     "CLMS API V2/Visitor Details.md",
+    "CLMS API V2/Requirements.md",
     "CLMS API V2/Data Migration.md",
     "Untitled",
     "CLMS API V2/Frontend Refactor.md",
@@ -194,8 +196,6 @@
     "Celavi/TODO.md",
     "Book Recommender",
     "Celavi/API.md",
-    "CLMS API V2/UI - Response Refactor.md",
-    "CLMS API V2/TODO.md",
     "CLMS API V2/Configuration.md",
     "Superadmin.md",
     "Server/Server Details.md",
