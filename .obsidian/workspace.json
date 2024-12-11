@@ -23,18 +23,18 @@
             }
           },
           {
-            "id": "525bc025425ab9eb",
+            "id": "8aecf040f1dd0c72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLMS API V2/Requirements.md",
+                "file": "Journeyvibes/Backend Planning/Database.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Requirements"
+              "title": "Database"
             }
           }
         ],
@@ -181,14 +181,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "525bc025425ab9eb",
+  "active": "8aecf040f1dd0c72",
   "lastOpenFiles": [
+    "Journeyvibes/Backend Planning/Untitled.canvas",
+    "Journeyvibes/Backend Planning/Database.md",
+    "Journeyvibes/Backend Planning/dsad.md",
+    "Duel Booting.md",
+    "Superadmin.md",
+    "CLMS API V2/Requirements.md",
+    "Journeyvibes/Backend Planning",
+    "Journeyvibes",
     "CLMS API V2/TODO.md",
     "CLMS API V2/UI - Response Refactor.md",
     "CLMS API V2/Visitor Details.md",
-    "CLMS API V2/Requirements.md",
     "CLMS API V2/Data Migration.md",
-    "Untitled",
     "CLMS API V2/Frontend Refactor.md",
     "CLMS API V2/Production Migration.md",
     "CLMS API V2/Impersonator.md",
@@ -197,7 +203,6 @@
     "Book Recommender",
     "Celavi/API.md",
     "CLMS API V2/Configuration.md",
-    "Superadmin.md",
     "Server/Server Details.md",
     "Server",
     "Server Req/Server.md",
@@ -213,11 +218,6 @@
     "Keycloak/Documentations.md",
     "Keycloak",
     "Kavya/image upload/Image upload flow.md",
-    "Kavya/Rabbitmq/student_subject.md",
-    "Kavya/Rabbitmq/Student.md",
-    "Kavya/Rabbitmq/Sections.md",
-    "Kavya/Settings/Settings.md",
-    "Kavya/MISC/Mark History.md",
-    "Kavya/image upload"
+    "Kavya/Rabbitmq/student_subject.md"
   ]
 }
