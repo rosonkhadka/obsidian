@@ -41,12 +41,15 @@
             "id": "c2fd99ca77f0bf23",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Keycloak/keycloak - diagram.md"
+                "file": "CLMS API V2/Requirements.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "keycloak - diagram"
+              "icon": "lucide-file",
+              "title": "Requirements"
             }
           }
         ],
@@ -195,6 +198,7 @@
   },
   "active": "c2fd99ca77f0bf23",
   "lastOpenFiles": [
+    "Keycloak/keycloak - diagram.md",
     "CLMS API V2/Requirements.md",
     "Journeyvibes/Backend Planning/Database.md",
     "CLMS API V2/Data Migration.md",
@@ -226,7 +230,6 @@
     "Keycloak/Laravel Integration/Filament/filament-keycloak-diagram.excalidraw.md",
     "Keycloak/Laravel Integration/Filament/Docs.md",
     "Keycloak/Laravel Integration/Filament",
-    "Keycloak/keycloak - diagram.md",
     "Keycloak/Laravel Integration",
     "Keycloak/Documentations.md",
     "Keycloak",
