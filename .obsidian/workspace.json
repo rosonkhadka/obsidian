@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journeyvibes/Backend Planning/Untitled.md",
+                "file": "CLMS API V2/Requirements.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Requirements"
             }
           }
         ],
@@ -196,29 +196,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ac3f602d271a52af",
+  "active": "c2fd99ca77f0bf23",
   "lastOpenFiles": [
     "Journeyvibes/Backend Planning/Database.md",
+    "CLMS API V2/Data Migration.md",
+    "CLMS API V2/Requirements.md",
+    "CLMS API V2/Visitor Details.md",
+    "CLMS API V2/Production Migration.md",
+    "CLMS API V2/TODO.md",
+    "CLMS API V2/UI - Response Refactor.md",
+    "CLMS API V2/Configuration.md",
     "Journeyvibes/Backend Planning/Untitled.md",
     "Journeyvibes/Backend Planning/Untitled.canvas",
     "Journeyvibes/Backend Planning/dsad.md",
     "Duel Booting.md",
     "Superadmin.md",
-    "CLMS API V2/Requirements.md",
     "Journeyvibes/Backend Planning",
     "Journeyvibes",
-    "CLMS API V2/TODO.md",
-    "CLMS API V2/UI - Response Refactor.md",
-    "CLMS API V2/Visitor Details.md",
-    "CLMS API V2/Data Migration.md",
     "CLMS API V2/Frontend Refactor.md",
-    "CLMS API V2/Production Migration.md",
     "CLMS API V2/Impersonator.md",
     "Book Recommender/TODO.md",
     "Celavi/TODO.md",
     "Book Recommender",
     "Celavi/API.md",
-    "CLMS API V2/Configuration.md",
     "Server/Server Details.md",
     "Server",
     "Server Req/Server.md",
