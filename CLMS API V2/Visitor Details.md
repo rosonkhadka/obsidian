@@ -1,9 +1,9 @@
 1. Index VD - Done
 2. Store VD - Changes Needed 
-	1. Handle
+	1. Handle - Done via Model event
 3. Show VD - Done
 4. Update VD - Changes Needed
-	1. Handle
+	1. Handle - Done via Model event
 5. Delete VD - Done
 6. Restore VD - Done
 7. Force Delete VD - Done
@@ -11,7 +11,7 @@
 	1. Event name must exists on the db - Done
 	2. Duplicate event name cannot be on the payload - Done
 	3. Updated first_counselled_by - To auth user - Done
-9. Data Merge
+9. Data Merge - WIP
 	1. Color - Assignment (Duplicate)
 	2. Duplicate
 		1. If visitor_type
